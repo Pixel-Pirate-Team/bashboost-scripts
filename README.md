@@ -4,7 +4,7 @@
     <img src="images/logo-Bashboost.png" alt="Logo" width="885" height="183">
   </a>
   <p align="center">
-    ** A collection of shell/bash scripts to automate processes designed for Linux Debian. **
+    **A collection of shell/bash scripts to automate processes designed for Linux Debian.**
     <br/>
     <br/>
     <a href="https://github.com/Pixel-Pirate-Team/bashboost-scripts"><strong>Explore the docs »</strong></a>
