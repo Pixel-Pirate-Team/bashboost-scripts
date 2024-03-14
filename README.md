@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Pixel-Pirate-Team/bashboost-scripts">
-    <img src="images/logo-Bashboost.png" alt="Logo" width="295" height="61">
+    <img src="images/logo-Bashboost.png" alt="Logo" width="442" height="91">
   </a>
   <p align="center">
     A collection of shell/bash scripts to automate processes designed for Linux Debian.
