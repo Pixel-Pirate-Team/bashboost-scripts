@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Pixel-Pirate-Team/bashboost-scripts">
-    <img src="images/logo-Bashboost.png" alt="Logo" width="120" height="80">
+    <img src="images/logo-Bashboost.png" alt="Logo" width="300" height="80">
   </a>
 
   <h3 align="center">Bashboost</h3>
