@@ -3,9 +3,6 @@
   <a href="https://github.com/Pixel-Pirate-Team/bashboost-scripts">
     <img src="images/logo-Bashboost.png" alt="Logo" width="885" height="183">
   </a>
-
-  <h3 align="center">Bashboost</h3>
-
   <p align="center">
     A collection of shell/bash scripts to automate processes. They have been designed for Debian Linux.
     <br/>
